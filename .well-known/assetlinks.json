@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.losinho.twa",
+        "sha256_cert_fingerprints": ["A3:D6:B7:B0:DD:03:A3:05:D6:3B:E5:0C:33:F9:7D:7B:85:74:A5:F5:FA:64:C6:CB:6C:3C:56:78:61:FB:2C:26"]
+      }
+    }]
